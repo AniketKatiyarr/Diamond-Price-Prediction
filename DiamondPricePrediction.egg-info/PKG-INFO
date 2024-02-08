@@ -6,3 +6,4 @@ Author-email: aniketkatiyar1298@gmail.com
 Requires-Dist: numpy
 Requires-Dist: pandas
 Requires-Dist: seaborn
+Requires-Dist: scikit-learn
