@@ -42,5 +42,4 @@ For front-end web application I used a simple HTML template and a CSS style shee
 Task 3— Back End Web Application
 I used the Flask framework to build the back-end web application. Here is the Flask code snippet for the back-end application.
 
-# Task 4— Deployment of the Web Application
-After training the model, building a machine learning pipeline, I deployed the web application on Heroku. I linked a GitHub repository to Heroku. The code for this project can be found on my GitHub repository here.
+
